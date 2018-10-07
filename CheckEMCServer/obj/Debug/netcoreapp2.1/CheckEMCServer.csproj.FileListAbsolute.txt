@@ -1,0 +1,11 @@
+C:\Users\aramos\source\repos\EZ\CheckEMCServer\bin\Debug\netcoreapp2.1\CheckEMCServer.deps.json
+C:\Users\aramos\source\repos\EZ\CheckEMCServer\bin\Debug\netcoreapp2.1\CheckEMCServer.runtimeconfig.json
+C:\Users\aramos\source\repos\EZ\CheckEMCServer\bin\Debug\netcoreapp2.1\CheckEMCServer.runtimeconfig.dev.json
+C:\Users\aramos\source\repos\EZ\CheckEMCServer\bin\Debug\netcoreapp2.1\CheckEMCServer.dll
+C:\Users\aramos\source\repos\EZ\CheckEMCServer\bin\Debug\netcoreapp2.1\CheckEMCServer.pdb
+C:\Users\aramos\source\repos\EZ\CheckEMCServer\obj\Debug\netcoreapp2.1\CheckEMCServer.csproj.CoreCompileInputs.cache
+C:\Users\aramos\source\repos\EZ\CheckEMCServer\obj\Debug\netcoreapp2.1\CheckEMCServer.AssemblyInfoInputs.cache
+C:\Users\aramos\source\repos\EZ\CheckEMCServer\obj\Debug\netcoreapp2.1\CheckEMCServer.AssemblyInfo.cs
+C:\Users\aramos\source\repos\EZ\CheckEMCServer\obj\Debug\netcoreapp2.1\CheckEMCServer.dll
+C:\Users\aramos\source\repos\EZ\CheckEMCServer\obj\Debug\netcoreapp2.1\CheckEMCServer.pdb
+C:\Users\aramos\source\repos\EZ\CheckEMCServer\obj\Debug\netcoreapp2.1\CheckEMCServer.csprojAssemblyReference.cache

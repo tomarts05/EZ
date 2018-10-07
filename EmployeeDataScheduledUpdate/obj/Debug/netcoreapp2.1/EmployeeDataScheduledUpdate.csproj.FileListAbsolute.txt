@@ -1,0 +1,11 @@
+C:\Users\aramos\source\repos\EZ\EmployeeDataScheduledUpdate\obj\Debug\netcoreapp2.1\EmployeeDataScheduledUpdate.csproj.CoreCompileInputs.cache
+C:\Users\aramos\source\repos\EZ\EmployeeDataScheduledUpdate\obj\Debug\netcoreapp2.1\EmployeeDataScheduledUpdate.AssemblyInfoInputs.cache
+C:\Users\aramos\source\repos\EZ\EmployeeDataScheduledUpdate\obj\Debug\netcoreapp2.1\EmployeeDataScheduledUpdate.AssemblyInfo.cs
+C:\Users\aramos\source\repos\EZ\EmployeeDataScheduledUpdate\bin\Debug\netcoreapp2.1\EmployeeDataScheduledUpdate.deps.json
+C:\Users\aramos\source\repos\EZ\EmployeeDataScheduledUpdate\bin\Debug\netcoreapp2.1\EmployeeDataScheduledUpdate.runtimeconfig.json
+C:\Users\aramos\source\repos\EZ\EmployeeDataScheduledUpdate\bin\Debug\netcoreapp2.1\EmployeeDataScheduledUpdate.runtimeconfig.dev.json
+C:\Users\aramos\source\repos\EZ\EmployeeDataScheduledUpdate\bin\Debug\netcoreapp2.1\EmployeeDataScheduledUpdate.dll
+C:\Users\aramos\source\repos\EZ\EmployeeDataScheduledUpdate\bin\Debug\netcoreapp2.1\EmployeeDataScheduledUpdate.pdb
+C:\Users\aramos\source\repos\EZ\EmployeeDataScheduledUpdate\obj\Debug\netcoreapp2.1\EmployeeDataScheduledUpdate.dll
+C:\Users\aramos\source\repos\EZ\EmployeeDataScheduledUpdate\obj\Debug\netcoreapp2.1\EmployeeDataScheduledUpdate.pdb
+C:\Users\aramos\source\repos\EZ\EmployeeDataScheduledUpdate\obj\Debug\netcoreapp2.1\EmployeeDataScheduledUpdate.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\aramos\source\repos\EZ\EZ.WebAPI\bin\Debug\netcoreapp2.1\EZ.WebAPI.deps.json
+C:\Users\aramos\source\repos\EZ\EZ.WebAPI\bin\Debug\netcoreapp2.1\EZ.WebAPI.runtimeconfig.json
+C:\Users\aramos\source\repos\EZ\EZ.WebAPI\bin\Debug\netcoreapp2.1\EZ.WebAPI.runtimeconfig.dev.json
+C:\Users\aramos\source\repos\EZ\EZ.WebAPI\bin\Debug\netcoreapp2.1\EZ.WebAPI.dll
+C:\Users\aramos\source\repos\EZ\EZ.WebAPI\bin\Debug\netcoreapp2.1\EZ.WebAPI.pdb
+C:\Users\aramos\source\repos\EZ\EZ.WebAPI\obj\Debug\netcoreapp2.1\EZ.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\aramos\source\repos\EZ\EZ.WebAPI\obj\Debug\netcoreapp2.1\EZ.WebAPI.RazorAssemblyInfo.cache
+C:\Users\aramos\source\repos\EZ\EZ.WebAPI\obj\Debug\netcoreapp2.1\EZ.WebAPI.RazorAssemblyInfo.cs
+C:\Users\aramos\source\repos\EZ\EZ.WebAPI\obj\Debug\netcoreapp2.1\EZ.WebAPI.AssemblyInfoInputs.cache
+C:\Users\aramos\source\repos\EZ\EZ.WebAPI\obj\Debug\netcoreapp2.1\EZ.WebAPI.AssemblyInfo.cs
+C:\Users\aramos\source\repos\EZ\EZ.WebAPI\obj\Debug\netcoreapp2.1\EZ.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\aramos\source\repos\EZ\EZ.WebAPI\obj\Debug\netcoreapp2.1\EZ.WebAPI.dll
+C:\Users\aramos\source\repos\EZ\EZ.WebAPI\obj\Debug\netcoreapp2.1\EZ.WebAPI.pdb
+C:\Users\aramos\source\repos\EZ\EZ.WebAPI\obj\Debug\netcoreapp2.1\EZ.WebAPI.csprojAssemblyReference.cache

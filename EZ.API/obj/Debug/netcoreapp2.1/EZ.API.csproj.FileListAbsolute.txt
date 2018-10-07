@@ -1,0 +1,13 @@
+C:\Users\aramos\source\repos\EZ\EZ.API\bin\Debug\netcoreapp2.1\EZ.API.deps.json
+C:\Users\aramos\source\repos\EZ\EZ.API\bin\Debug\netcoreapp2.1\EZ.API.runtimeconfig.json
+C:\Users\aramos\source\repos\EZ\EZ.API\bin\Debug\netcoreapp2.1\EZ.API.runtimeconfig.dev.json
+C:\Users\aramos\source\repos\EZ\EZ.API\bin\Debug\netcoreapp2.1\EZ.API.dll
+C:\Users\aramos\source\repos\EZ\EZ.API\bin\Debug\netcoreapp2.1\EZ.API.pdb
+C:\Users\aramos\source\repos\EZ\EZ.API\obj\Debug\netcoreapp2.1\EZ.API.csproj.CoreCompileInputs.cache
+C:\Users\aramos\source\repos\EZ\EZ.API\obj\Debug\netcoreapp2.1\EZ.API.RazorAssemblyInfo.cache
+C:\Users\aramos\source\repos\EZ\EZ.API\obj\Debug\netcoreapp2.1\EZ.API.RazorAssemblyInfo.cs
+C:\Users\aramos\source\repos\EZ\EZ.API\obj\Debug\netcoreapp2.1\EZ.API.AssemblyInfoInputs.cache
+C:\Users\aramos\source\repos\EZ\EZ.API\obj\Debug\netcoreapp2.1\EZ.API.AssemblyInfo.cs
+C:\Users\aramos\source\repos\EZ\EZ.API\obj\Debug\netcoreapp2.1\EZ.API.RazorTargetAssemblyInfo.cache
+C:\Users\aramos\source\repos\EZ\EZ.API\obj\Debug\netcoreapp2.1\EZ.API.dll
+C:\Users\aramos\source\repos\EZ\EZ.API\obj\Debug\netcoreapp2.1\EZ.API.pdb
