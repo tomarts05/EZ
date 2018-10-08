@@ -3412,11 +3412,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aramos\\source\\repos\\EZ\\EmployeeDataScheduledUpdate\\EmployeeDataScheduledUpdate.csproj",
+      "projectUniqueName": "C:\\Users\\aramos\\Documents\\GitHub\\EZ\\EmployeeDataScheduledUpdate\\EmployeeDataScheduledUpdate.csproj",
       "projectName": "EmployeeDataScheduledUpdate",
-      "projectPath": "C:\\Users\\aramos\\source\\repos\\EZ\\EmployeeDataScheduledUpdate\\EmployeeDataScheduledUpdate.csproj",
+      "projectPath": "C:\\Users\\aramos\\Documents\\GitHub\\EZ\\EmployeeDataScheduledUpdate\\EmployeeDataScheduledUpdate.csproj",
       "packagesPath": "C:\\Users\\aramos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aramos\\source\\repos\\EZ\\EmployeeDataScheduledUpdate\\obj\\",
+      "outputPath": "C:\\Users\\aramos\\Documents\\GitHub\\EZ\\EmployeeDataScheduledUpdate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

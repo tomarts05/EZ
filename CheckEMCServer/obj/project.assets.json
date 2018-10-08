@@ -1116,11 +1116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\aramos\\source\\repos\\EZ\\CheckEMCServer\\CheckEMCServer.csproj",
+      "projectUniqueName": "C:\\Users\\aramos\\Documents\\GitHub\\EZ\\CheckEMCServer\\CheckEMCServer.csproj",
       "projectName": "CheckEMCServer",
-      "projectPath": "c:\\Users\\aramos\\source\\repos\\EZ\\CheckEMCServer\\CheckEMCServer.csproj",
+      "projectPath": "C:\\Users\\aramos\\Documents\\GitHub\\EZ\\CheckEMCServer\\CheckEMCServer.csproj",
       "packagesPath": "C:\\Users\\aramos\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\aramos\\source\\repos\\EZ\\CheckEMCServer\\obj\\",
+      "outputPath": "C:\\Users\\aramos\\Documents\\GitHub\\EZ\\CheckEMCServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -12230,11 +12230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aramos\\source\\repos\\EZ\\EZ.API\\EZ.API.csproj",
+      "projectUniqueName": "C:\\Users\\aramos\\Documents\\GitHub\\EZ\\EZ.API\\EZ.API.csproj",
       "projectName": "EZ.API",
-      "projectPath": "C:\\Users\\aramos\\source\\repos\\EZ\\EZ.API\\EZ.API.csproj",
+      "projectPath": "C:\\Users\\aramos\\Documents\\GitHub\\EZ\\EZ.API\\EZ.API.csproj",
       "packagesPath": "C:\\Users\\aramos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aramos\\source\\repos\\EZ\\EZ.API\\obj\\",
+      "outputPath": "C:\\Users\\aramos\\Documents\\GitHub\\EZ\\EZ.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
